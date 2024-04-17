@@ -22,7 +22,4 @@
 <br />
 <br />
 
-### **Documentación específica por Proyecto:**
--**[ Worknmates](https://github.com/AI-CORE-dev/tech-docs/tree/master/Projects/Worknmates)**
-
 </div>
