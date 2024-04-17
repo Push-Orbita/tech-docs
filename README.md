@@ -15,9 +15,9 @@
 
 <div align="center">
 
-### [**Frontend - Lineamientos generales**](https://github.com/AI-CORE-dev/tech-docs/tree/master/Frontend)
+### [**Frontend - Lineamientos generales**](https://github.com/Push-Orbita/tech-docs/tree/main/Frontend)
 
-### [**Backend - Lineamientos generales**](https://github.com/AI-CORE-dev/tech-docs/tree/master/Backend)
+### [**Backend - Lineamientos generales**](https://github.com/Push-Orbita/tech-docs/tree/main/Backend)
 
 <br />
 <br />
